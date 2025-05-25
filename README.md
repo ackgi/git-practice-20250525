@@ -1,2 +1,2 @@
-# git-practice-20250525
+# ホゲホゲ
 Git,Github 演習課題用のリポジトリです。
